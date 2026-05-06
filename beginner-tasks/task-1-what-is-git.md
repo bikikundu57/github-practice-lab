@@ -19,7 +19,7 @@ Think of GitHub like **Google Drive** for coders.
 
 ## ✏️ Your Answer (edit below)
 
-*Delete this line and write your answer here*
+Git is like a time machine for my homework because I can go back to any saved version.
 
 ---
 
