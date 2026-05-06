@@ -24,7 +24,7 @@ Example: "Add my first learning note about commits"
 
 ---
 
-**TODO:** *Replace this line with one thing you learned about commits*
+I learned that a commit saves a checkpoint of my work with a message explaining what changed.
 
 ## 🎉 Success!
 If you can see your change saved on GitHub, you've made your first commit!
