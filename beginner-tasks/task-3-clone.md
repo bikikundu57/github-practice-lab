@@ -25,3 +25,17 @@ Download a GitHub repository to your computer and make changes locally.
 4. In Terminal, type:
    ```bash
    git clone https://github.com/YOUR-USERNAME/repo-name.git
+
+### Step 3: Make a Change Locally
+# 1. Navigate into the folder:
+                  cd repo-name
+# 2. Create a new file:
+      echo "I cloned this repository!" > cloned-by-me.txt
+
+### Step 4: Commit and Push
+         git add cloned-by-me.txt
+         git commit -m "Add file created from my computer"
+         git push origin main
+
+
+
