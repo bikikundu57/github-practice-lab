@@ -18,12 +18,13 @@ Welcome! This is my learning project for Git and GitHub.
 
 ## 📝 My Learning Notes
 
-*Write your notes here as you learn:*
+## 📝 My Learning Notes
 
-- Today I learned how to create a repository
-- I made my first commit on GitHub
-- (Add more as you complete tasks)
-
+- Today I learned how to fork a repository
+- I made my first edits on GitHub
+- I learned what commits are and how to make them
+- Task 1 taught me Git vs GitHub difference
+- Task 2 taught me about commit messages
 ## 🏆 Progress Tracker
 
 - [x] Created repository
