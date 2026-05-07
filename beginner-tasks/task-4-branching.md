@@ -1,10 +1,10 @@
 📄 **TASK 4 FILE CONTENT**
 
-**Create file:** `beginner-tasks/task-4-branching.md`
+**Create file:** beginner-tasks/task-4-branching.md
 
 **Copy and paste this:**
 
-```markdown
+markdown
 # Task 4: Working with Branches
 
 ## 🎯 Learning Goal
